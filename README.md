@@ -1,19 +1,19 @@
 # 🚀 Nuker-Bot
 
-Bu proje, [WraithsDev](https://youtube.com/@WraithsDev) tarafından geliştirilen açık kaynaklı ve topluluk destekli bir uygulamadır.
+This project is an open-source and community-supported application developed by [WraithsDev](https://youtube.com/@WraithsDev).
 
-## 📽️ Tanıtım Videosu
+## 📽️ Introduction Video
 
-[![Tanıtım Videosunu İzle](https://img.youtube.com/vi/sEIylcQV85o/maxresdefault.jpg)](https://youtube.com/@WraithsDev)
+[![Watch Introduction Video](https://img.youtube.com/vi/sEIylcQV85o/maxresdefault.jpg)](https://youtube.com/@WraithsDev)
 
-👆 Projeyi daha iyi anlamak için tanıtım videomuzu izleyebilirsiniz.
+👆 You can watch our introduction video to better understand the project.
 
-💬 Destek ve Topluluk
-Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, destek sunucumuza katılabilirsiniz:
+💬 Support and Community
+If you encounter any problems or need help, you can join our support server:
 [![Discord Banner](https://api.weblutions.com/discord/invite/vsc/)](https://discord.gg/vsc)
 
-🪪 Lisans
-Bu proje, [Apache-2.0 Lisansı](https://www.apache.org/licenses/LICENSE-2.0) ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+🪪 License
+This project is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0). You can review the `LICENSE` file for details.
 
-# Sorumluluk reddi beyanı
-This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
+# Disclaimer
+This tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
